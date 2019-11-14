@@ -3,3 +3,8 @@ https://restart-1-6927513437-eu-west-1.k4s.bonsaiapps.net/app/kibana#/dashboard/
 
 u: p7gnnws2pv
 p: ivrn3xpt3f
+
+
+config.py
+bonsai_url = 'https://p7gnnws2pv:ivrn3xpt3f@restart-1-6927513437.eu-west-1.bonsaisearch.net'
+bonsai_port = 443
